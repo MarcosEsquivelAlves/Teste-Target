@@ -1,0 +1,7 @@
+C:\Users\Marcos Alves\Desktop\Teste-Target\Teste\desafio-2\bin\Debug\desafio-2.exe.config
+C:\Users\Marcos Alves\Desktop\Teste-Target\Teste\desafio-2\bin\Debug\desafio-2.exe
+C:\Users\Marcos Alves\Desktop\Teste-Target\Teste\desafio-2\bin\Debug\desafio-2.pdb
+C:\Users\Marcos Alves\Desktop\Teste-Target\Teste\desafio-2\obj\Debug\desafio-2.csproj.AssemblyReference.cache
+C:\Users\Marcos Alves\Desktop\Teste-Target\Teste\desafio-2\obj\Debug\desafio-2.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Alves\Desktop\Teste-Target\Teste\desafio-2\obj\Debug\desafio-2.exe
+C:\Users\Marcos Alves\Desktop\Teste-Target\Teste\desafio-2\obj\Debug\desafio-2.pdb

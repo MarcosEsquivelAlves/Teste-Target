@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E58F3783-9777-443E-A23B-72932E758321}|desafio-3\\desafio-3.csproj|c:\\users\\marcos alves\\desktop\\teste-target\\teste\\desafio-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58F3783-9777-443E-A23B-72932E758321}|desafio-3\\desafio-3.csproj|solutionrelative:desafio-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC5129D-AF54-46B0-A4E3-EA3AA2BBD1EC}|desafio-5\\desafio-5.csproj|c:\\users\\marcos alves\\desktop\\teste-target\\teste\\desafio-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC5129D-AF54-46B0-A4E3-EA3AA2BBD1EC}|desafio-5\\desafio-5.csproj|solutionrelative:desafio-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE0FEE7-5A36-4DB4-B0FB-167E0C8E5ABE}|desafio-4\\desafio-4.csproj|c:\\users\\marcos alves\\desktop\\teste-target\\teste\\desafio-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE0FEE7-5A36-4DB4-B0FB-167E0C8E5ABE}|desafio-4\\desafio-4.csproj|solutionrelative:desafio-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418F3BD7-BEA5-412C-8289-AEA790E13A30}|desafio-1\\desafio-1.csproj|c:\\users\\marcos alves\\desktop\\teste-target\\teste\\desafio-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418F3BD7-BEA5-412C-8289-AEA790E13A30}|desafio-1\\desafio-1.csproj|solutionrelative:desafio-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3E51EEE-4147-44FE-AE1D-BBD25361F4D1}|desafio-2\\desafio-2.csproj|c:\\users\\marcos alves\\desktop\\teste-target\\teste\\desafio-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3E51EEE-4147-44FE-AE1D-BBD25361F4D1}|desafio-2\\desafio-2.csproj|solutionrelative:desafio-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9799A7F5-C578-4E8F-8A55-1780F18E803B}|Teste\\Teste.csproj|c:\\users\\marcos alves\\desktop\\teste-target\\teste\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9799A7F5-C578-4E8F-8A55-1780F18E803B}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 363,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-3\\Program.cs",
+              "RelativeDocumentMoniker": "desafio-3\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-3\\Program.cs",
+              "RelativeToolTip": "desafio-3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:59:24.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-5\\Program.cs",
+              "RelativeDocumentMoniker": "desafio-5\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-5\\Program.cs",
+              "RelativeToolTip": "desafio-5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:40:46.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-4\\Program.cs",
+              "RelativeDocumentMoniker": "desafio-4\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-4\\Program.cs",
+              "RelativeToolTip": "desafio-4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:18:29.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-1\\Program.cs",
+              "RelativeDocumentMoniker": "desafio-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-1\\Program.cs",
+              "RelativeToolTip": "desafio-1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:14:34.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-2\\Program.cs",
+              "RelativeDocumentMoniker": "desafio-2\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\desafio-2\\Program.cs",
+              "RelativeToolTip": "desafio-2\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:11:42.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Alves\\Desktop\\Teste-Target\\Teste\\Teste\\Program.cs",
+              "RelativeToolTip": "Teste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:08:28.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
